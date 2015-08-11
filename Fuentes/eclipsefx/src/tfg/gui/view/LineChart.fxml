@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.chart.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tfg.gui.view.TrendingTopicController">
+   <children>
+      <BorderPane prefHeight="600.0" prefWidth="800.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <center>
+          <AnchorPane BorderPane.alignment="CENTER">
+               <children>
+                  <LineChart fx:id="grafico" layoutX="19.0" prefHeight="549.0" prefWidth="800.0" title="Tweets por hora" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                    <xAxis>
+                      <CategoryAxis fx:id="hora" label="HORA" />
+                    </xAxis>
+                    <yAxis>
+                      <NumberAxis fx:id="numTweets" label="TWEETS" side="LEFT" />
+                    </yAxis>
+                  </LineChart>
+               </children>
+               <BorderPane.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </BorderPane.margin>
+            </AnchorPane>
+         </center>
+         <top>
+            <TitledPane fx:id="titulo" collapsible="false" text="Gráfico" BorderPane.alignment="CENTER" />
+         </top>
+      </BorderPane>
+   </children>
+</AnchorPane>

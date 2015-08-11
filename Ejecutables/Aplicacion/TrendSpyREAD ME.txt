@@ -1,0 +1,3 @@
+Necesario tener instalado Java 8.
+cd DirectorioActual
+java -jar TrendSpy.jar

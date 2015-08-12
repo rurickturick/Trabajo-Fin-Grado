@@ -30,7 +30,7 @@ importantes. Además incluye un buscador de tweets populares que permita al
 usuario obtener aquellos tweets que más han destacado en la comunidad de
 usuarios de Twitter con respecto a cada trending topic.
 Distintos aspectos de la aplicación implementada han sido evaluados. La
-evaluación del clasicador de trending topics obtiene una precisión del 90 %. La
+evaluación del clasificador de trending topics obtiene una precisión del 90 %. La
 evaluación del agrupamiento de comunidades concluye que las tendencias están
 bien relacionadas entre sí aunque puede ser mejorable. Por último, en cuanto al
 buscador de tweets populares se concluye que los tweets devueltos son relevantes

@@ -24,8 +24,8 @@ El objetivo de este trabajo es el desarrollo de una aplicación que permita a lo
 usuarios explorar el conjunto de tendencias que han ido apareciendo a lo largo
 del tiempo, permitiendo así que cada trending topic que ofrece Twitter quede
 registrado en la aplicación para su posterior análisis. La aplicación desarrollada
-ofrece funcionalidades de clasicación y agrupamiento de trending topics, así
-como visualización gráca de la evolución en el tiempo de las tendencias más
+ofrece funcionalidades de clasificación y agrupamiento de trending topics, así
+como visualización gráfica de la evolución en el tiempo de las tendencias más
 importantes. Además incluye un buscador de tweets populares que permita al
 usuario obtener aquellos tweets que más han destacado en la comunidad de
 usuarios de Twitter con respecto a cada trending topic.

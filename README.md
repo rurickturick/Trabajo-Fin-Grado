@@ -1,8 +1,15 @@
 # Trabajo-Fin-Grado
 Trabajo de Fin de Grado: Estudio de Tendencias Diarias en Twitter
-Realizado por: Esteban Vargas Rastrollo, Ángel Luis Ortiz Folgado y Óscar Eduardo Pérez la Madrid.
 
-Resumen:
+#Realizado por: 
+
+Ángel Luis Ortiz Folgado
+
+Óscar Eduardo Pérez la Madrid
+
+Esteban Vargas Rastrollo,
+
+#Resumen:
 
 En la actualidad las redes sociales han cambiado el paradigma de las relaciones
 sociales y del acceso a la información. Twitter con el paso del tiempo se
@@ -42,7 +49,8 @@ sobre qué temas se ha hablado, cuáles han sido los mensajes más populares,
 cómo se relacionan esas tendencias entre sí y cómo ha sido la evolución en el
 tiempo de los trending topics más importantes.
 
-Estructura del proyecto:
+#Estructura del proyecto:
+
 En la carpeta principal se encuentra la memoria del trabajo realizado.
 En la carpeta Ejecutables se encuentran las aplicaciones ya compiladas para la puesta en funcionamiento.
 En la carpeta Ejecutables/Servidor se encuentran los tres procesos que hay que ejecutar en un servidor remoto para capturar los datos necesarios de Twitter.
